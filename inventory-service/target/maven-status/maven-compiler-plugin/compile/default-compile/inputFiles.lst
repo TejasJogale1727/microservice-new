@@ -1,0 +1,7 @@
+/home/tr-dt-053/Desktop/Training/Java Training/Spring-Boot/MicroServices/micro-service-ws/microservice-new/inventory-service/src/main/java/com/microservices/inventoryservice/dto/InventoryResponse.java
+/home/tr-dt-053/Desktop/Training/Java Training/Spring-Boot/MicroServices/micro-service-ws/microservice-new/inventory-service/src/main/java/com/microservices/inventoryservice/service/InventoryService.java
+/home/tr-dt-053/Desktop/Training/Java Training/Spring-Boot/MicroServices/micro-service-ws/microservice-new/inventory-service/src/main/java/com/microservices/inventoryservice/service/impl/InventoryServiceImpl.java
+/home/tr-dt-053/Desktop/Training/Java Training/Spring-Boot/MicroServices/micro-service-ws/microservice-new/inventory-service/src/main/java/com/microservices/inventoryservice/controller/InventoryController.java
+/home/tr-dt-053/Desktop/Training/Java Training/Spring-Boot/MicroServices/micro-service-ws/microservice-new/inventory-service/src/main/java/com/microservices/inventoryservice/repository/InventoryRepository.java
+/home/tr-dt-053/Desktop/Training/Java Training/Spring-Boot/MicroServices/micro-service-ws/microservice-new/inventory-service/src/main/java/com/microservices/inventoryservice/model/Inventory.java
+/home/tr-dt-053/Desktop/Training/Java Training/Spring-Boot/MicroServices/micro-service-ws/microservice-new/inventory-service/src/main/java/com/microservices/inventoryservice/InventoryServiceApplication.java

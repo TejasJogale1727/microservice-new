@@ -1,0 +1,8 @@
+/home/tr-dt-053/Desktop/Training/Java Training/Spring-Boot/MicroServices/micro-service-ws/microservice-new/product-service/src/main/java/com/microservices/productservice/controller/ProductController.java
+/home/tr-dt-053/Desktop/Training/Java Training/Spring-Boot/MicroServices/micro-service-ws/microservice-new/product-service/src/main/java/com/microservices/productservice/dto/ProductResponse.java
+/home/tr-dt-053/Desktop/Training/Java Training/Spring-Boot/MicroServices/micro-service-ws/microservice-new/product-service/src/main/java/com/microservices/productservice/dto/ProductRequest.java
+/home/tr-dt-053/Desktop/Training/Java Training/Spring-Boot/MicroServices/micro-service-ws/microservice-new/product-service/src/main/java/com/microservices/productservice/service/ProductService.java
+/home/tr-dt-053/Desktop/Training/Java Training/Spring-Boot/MicroServices/micro-service-ws/microservice-new/product-service/src/main/java/com/microservices/productservice/service/impl/ProductServiceImpl.java
+/home/tr-dt-053/Desktop/Training/Java Training/Spring-Boot/MicroServices/micro-service-ws/microservice-new/product-service/src/main/java/com/microservices/productservice/model/Product.java
+/home/tr-dt-053/Desktop/Training/Java Training/Spring-Boot/MicroServices/micro-service-ws/microservice-new/product-service/src/main/java/com/microservices/productservice/ProductServiceApplication.java
+/home/tr-dt-053/Desktop/Training/Java Training/Spring-Boot/MicroServices/micro-service-ws/microservice-new/product-service/src/main/java/com/microservices/productservice/repository/ProductRepository.java

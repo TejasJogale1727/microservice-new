@@ -9,11 +9,14 @@ import org.springframework.context.annotation.Bean;
 import com.microservices.inventoryservice.model.Inventory;
 import com.microservices.inventoryservice.repository.InventoryRepository;
 
+import reactor.core.publisher.Hooks;
+
 @SpringBootApplication
 @EnableDiscoveryClient
 public class InventoryServiceApplication {
 
 	public static void main(String[] args) {
+		Hooks.enableAutomaticContextPropagation();
 		SpringApplication.run(InventoryServiceApplication.class, args);
 	}
 
